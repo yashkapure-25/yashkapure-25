@@ -1,7 +1,7 @@
 <!-- 🔥 BANNER (PUT YOUR IMAGE LINK HERE) -->
 <p align="center">
   <img src="https://github.com/yashkapure-25/yashkapure-25/blob/cd57bcc491c743d9db3b820305108ab7c0036f3c/Gemini_Generated_Image_1vulzv1vulzv1vul.png" width="100%" />
-  <img src="" width="100%" />
+ 
 </p>
 <h1 align="center">Hi 👋, I'm Yash Kapure</h1>
 <h3 align="center">🚀 AWS Cloud & DevOps Engineer (Entry-Level)</h3>
