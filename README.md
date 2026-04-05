@@ -1,3 +1,7 @@
+<!-- 🔥 BANNER (PUT YOUR IMAGE LINK HERE) -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Yash Kapure</h1>
 <h3 align="center">🚀 AWS Cloud & DevOps Engineer (Entry-Level)</h3>
 
